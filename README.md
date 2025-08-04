@@ -12,14 +12,14 @@ Many candidates, especially freshers, struggle with (interview anxiety, lack of 
 
 # 🧰 Technologies Used
 
-- *IBM Cloud** – Platform for hosting and deploying the agent  
-- *Watsonx.ai Studio** – Core AI studio used to build and train the agent  
-- *Cloud Object Storage** – For uploading and indexing documents  
-- *Vector Indexing** – To allow document-based question-answering  
-- *Foundation Model (Mistral-large)** – Base LLM model used  
-- *Tool Integration** – Enabling additional functionalities like data access  
-- *API Deployment** – To make the agent accessible for other platforms  
-- *Markdown / GitHub** – Documentation and project tracking  
+- **IBM Cloud** – Platform for hosting and deploying the agent  
+- **Watsonx.ai Studio** – Core AI studio used to build and train the agent  
+- **Cloud Object Storage** – For uploading and indexing documents  
+- **Vector Indexing** – To allow document-based question-answering  
+- **Foundation Model (Mistral-large)** – Base LLM model used  
+- **Tool Integration** – Enabling additional functionalities like data access  
+- **API Deployment** – To make the agent accessible for other platforms  
+- **Markdown / GitHub** – Documentation and project tracking  
 
 
 
