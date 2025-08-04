@@ -51,7 +51,12 @@ Many candidates, especially freshers, struggle with (interview anxiety, lack of 
 
 ---
 
-📌 **Note:** You can view the full setup steps and screenshots in the [`Agentic_AI_Steps.pdf`](./Agentic_AI_Steps.pdf) or refer to sample interactions in the `/screenshots` folder.
+# Author
+Nikhil Kumar Awasthi
+Department of Information Technology
+JSS Academy Of Technical Education, Noida
+nikhilkumarawasthi11@gmail.com | https://www.linkedin.com/in/nikhil-kumar-awasthi-584a36265/
 
----
+# Acknowledgements
+Thanks to **IBM SkillsBuild, Watsnox and our academic mentors** for guidence and resources.
 
